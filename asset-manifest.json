@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/Ethnus-MERN-React/static/css/main.16fabf49.css",
-    "main.js": "/Ethnus-MERN-React/static/js/main.edc7d631.js",
+    "main.js": "/Ethnus-MERN-React/static/js/main.85dcafc8.js",
     "static/js/787.7f320c1d.chunk.js": "/Ethnus-MERN-React/static/js/787.7f320c1d.chunk.js",
     "static/media/proj2.png": "/Ethnus-MERN-React/static/media/proj2.9c3ca93b454fd20279fa.png",
     "static/media/proj1.png": "/Ethnus-MERN-React/static/media/proj1.3c18ba5b4b3e2a6029fd.png",
     "static/media/proj3.png": "/Ethnus-MERN-React/static/media/proj3.098b6282c676446d6b5b.png",
     "index.html": "/Ethnus-MERN-React/index.html",
     "main.16fabf49.css.map": "/Ethnus-MERN-React/static/css/main.16fabf49.css.map",
-    "main.edc7d631.js.map": "/Ethnus-MERN-React/static/js/main.edc7d631.js.map",
+    "main.85dcafc8.js.map": "/Ethnus-MERN-React/static/js/main.85dcafc8.js.map",
     "787.7f320c1d.chunk.js.map": "/Ethnus-MERN-React/static/js/787.7f320c1d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.16fabf49.css",
-    "static/js/main.edc7d631.js"
+    "static/js/main.85dcafc8.js"
   ]
 }
